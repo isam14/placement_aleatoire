@@ -1,0 +1,12 @@
+.col-xs-2 {
+background-color: #121418;
+}
+
+body{
+    color: rgba(251, 255, 4, 0.88)
+}
+
+img {
+    max-height: 80px;
+    max-width: 80px;
+}
